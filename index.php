@@ -6,6 +6,6 @@ error_reporting(E_ALL);
 
 echo "hello main \n";
 
-\Swoole\Coroutine::create(function () {
-    echo "hello go2 \n";
-});
+// \Swoole\Coroutine::create(function () {
+//     echo "hello go2 \n";
+// });
