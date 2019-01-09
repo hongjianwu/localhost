@@ -22,7 +22,7 @@ require_once APPLICATION_PATH . '/vendor/autoload.php';
 //})->setArgument('name', 'World!');
 //
 //$app->run();
-
+phpinfo();exit;
 $p = new \PhpOffice\PhpWord\PhpWord();
 $path =  APPLICATION_PATH.'/public/index.doc';
 $res = $p->loadTemplate($path);
