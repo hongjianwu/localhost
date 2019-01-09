@@ -24,5 +24,5 @@ require_once APPLICATION_PATH . '/vendor/autoload.php';
 //$app->run();
 
 $p = new \PhpOffice\PhpWord\PhpWord();
-echo APPLICATION_PATH.'/public/index.doc';
-//echo file_exists();
+$path =  APPLICATION_PATH.'/public/index.doc';
+echo file_exists();
