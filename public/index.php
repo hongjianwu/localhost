@@ -26,4 +26,4 @@ require_once APPLICATION_PATH . '/vendor/autoload.php';
 $p = new \PhpOffice\PhpWord\PhpWord();
 $path =  APPLICATION_PATH.'/public/index.doc';
 $res = $p->loadTemplate($path);
-var_dump($res);
+$p->save(APPLICATION_PATH.'/public/index1.doc', 'Word2007',1);
