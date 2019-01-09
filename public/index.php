@@ -6,6 +6,7 @@ if (!file_exists(APPLICATION_PATH.'/vendor/autoload.php')) {
     die();
 }
 
+
 require_once APPLICATION_PATH . '/vendor/autoload.php';
 
 $app = new Slim\App();
@@ -21,3 +22,5 @@ $app->get('/hello[/{name}]', function ($request, $response, $args) {
 })->setArgument('name', 'World!');
 
 $app->run();
+
+$p = new \PhpOffice\PhpWord\PhpWord();
