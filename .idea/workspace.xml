@@ -26,8 +26,8 @@
       <file leaf-file-name="ZipArchive.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/ZipArchive.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="83" column="36" lean-forward="false" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+            <state relative-caret-position="367">
+              <caret line="83" column="35" lean-forward="false" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
               <folding>
                 <element signature="e#714#756#0#PHP" expanded="true" />
               </folding>
@@ -233,12 +233,12 @@
       <updated>1545633415177</updated>
       <workItem from="1545633417364" duration="222000" />
       <workItem from="1546999013240" duration="2142000" />
-      <workItem from="1547005707368" duration="463000" />
+      <workItem from="1547005707368" duration="794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8035000" />
+    <option name="totallyTimeSpent" value="8366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -408,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/ZipArchive.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="83" column="36" lean-forward="false" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+        <state relative-caret-position="367">
+          <caret line="83" column="35" lean-forward="false" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
           <folding>
             <element signature="e#714#756#0#PHP" expanded="true" />
           </folding>
