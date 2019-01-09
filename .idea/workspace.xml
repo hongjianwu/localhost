@@ -27,10 +27,20 @@
         <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/ZipArchive.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="205">
-              <caret line="83" column="35" lean-forward="false" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+              <caret line="83" column="36" lean-forward="false" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
               <folding>
                 <element signature="e#714#756#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Settings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-447">
+              <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,6 +97,7 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/PhpWord.php" />
         <option value="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Template.php" />
+        <option value="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Settings.php" />
         <option value="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/ZipArchive.php" />
       </list>
     </option>
@@ -222,12 +233,12 @@
       <updated>1545633415177</updated>
       <workItem from="1545633417364" duration="222000" />
       <workItem from="1546999013240" duration="2142000" />
-      <workItem from="1547005707368" duration="377000" />
+      <workItem from="1547005707368" duration="463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7949000" />
+    <option name="totallyTimeSpent" value="8035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -387,10 +398,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/ZipArchive.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
-          <caret line="83" column="35" lean-forward="false" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+          <caret line="83" column="36" lean-forward="false" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
           <folding>
             <element signature="e#714#756#0#PHP" expanded="true" />
           </folding>
