@@ -1,6 +1,6 @@
 {
   "require": {
-    "phpoffice/phpword": "v0.14.*",
+    "phpoffice/phpword": "v0.16.*",
     "phpoffice/phpspreadsheet": "v1.5.0"
   }
 }
