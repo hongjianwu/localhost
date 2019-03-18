@@ -1,14 +1,13 @@
 <?php
-define('APPLICATION_PATH', dirname(dirname(__FILE__)));
-
-if (!file_exists(APPLICATION_PATH.'/vendor/autoload.php')) {
-    echo 'framework error' . PHP_EOL;
-    die();
-}
-
-
-require_once APPLICATION_PATH . '/vendor/autoload.php';
-
+//define('APPLICATION_PATH', dirname(dirname(__FILE__)));
+//
+//if (!file_exists(APPLICATION_PATH.'/vendor/autoload.php')) {
+//    echo 'framework error' . PHP_EOL;
+//    die();
+//}
+//
+//
+//require_once APPLICATION_PATH . '/vendor/autoload.php';
 //$app = new Slim\App();
 //
 //$app->get('/', function ($request, $response, $args) {
@@ -23,7 +22,19 @@ require_once APPLICATION_PATH . '/vendor/autoload.php';
 //
 //$app->run();
 
-$p = new \PhpOffice\PhpWord\PhpWord();
-$path =  APPLICATION_PATH.'/public/index.doc';
-$res = $p->loadTemplate($path);
-$p->save(APPLICATION_PATH.'/public/index1.doc', 'Word2007',1);
+
+class file{
+    public function __construct (User $user)
+    {
+        echo $user->setUser();
+    }
+}
+
+class User{
+    public function setUser(){
+        echo 1;
+    }
+}
+
+$user = new User();
+$user->setUser();
